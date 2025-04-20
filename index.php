@@ -1,6 +1,7 @@
 <?php
 
 // Comment these lines to hide errors on dev gugu
+// branch dev like develoment
 error_reporting(E_ALL);
 ini_set('display_errors', 1);
 
