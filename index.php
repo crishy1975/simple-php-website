@@ -9,7 +9,7 @@ ini_set('display_errors', 1);
 require 'includes/config.php';
 require 'includes/functions.php';
 
-for (let n = 1; n <= 5; n++) {
+for (let n = 1; n <= 15; n++) {
     console.log("hoi");
 }
 
